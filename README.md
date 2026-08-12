@@ -89,10 +89,9 @@
 
 ## 📥 HƯỚNG DẪN CÀI ĐẶT
 
-1. Vào tab **Releases** của repository
-2. Tải file `app-YT-Premium-Ultra.apk` phiên bản mới nhất
-3. Cài đặt trên Android (bật **Unknown Sources** nếu cần)
-4. Mở ứng dụng → tận hưởng YouTube sạch sẽ
+1. Tải file `app-YT-Premium-Ultra.apk` phiên bản mới nhất
+2. Cài đặt trên Android (bật **Unknown Sources** nếu cần)
+3. Mở ứng dụng → tận hưởng YouTube sạch sẽ
 
 **Link tải nhanh (Google Drive):**  
 [https://drive.google.com/drive/folders/15mSp3mwzZsaiLAV2r3pZ2m8aVxnQjV_C?usp=sharing](https://drive.google.com/drive/folders/15mSp3mwzZsaiLAV2r3pZ2m8aVxnQjV_C?usp=sharing)
