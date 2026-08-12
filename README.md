@@ -97,6 +97,8 @@
 **Link tải nhanh (Google Drive):**  
 [https://drive.google.com/drive/folders/15mSp3mwzZsaiLAV2r3pZ2m8aVxnQjV_C?usp=sharing](https://drive.google.com/drive/folders/15mSp3mwzZsaiLAV2r3pZ2m8aVxnQjV_C?usp=sharing)
 
+[![Mobile v3.7.3](https://img.shields.io/badge/Mobile-v3.7.3-red?style=for-the-badge&logo=android)](https://github.com/kcydvn-a11y/YT-Premium-Ultra/releases/download/V3.7.3/YT.Premium.Ultra.v3.7.3.apk)
+[![TV / Box v3.7.2](https://img.shields.io/badge/TV%2FBox-v3.7.2-orange?style=for-the-badge&logo=android)](https://github.com/kcydvn-a11y/YT-Premium-Ultra/releases/download/V3.7.3/YT.Premium.Ultra.For.TIVI.v3.7.2.apk)
 ---
 
 ## 📋 LƯU Ý
