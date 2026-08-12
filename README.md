@@ -1,6 +1,7 @@
 # 🛡️ **YT PREMIUM ULTRA**
 **YouTube Ad Blocker chuyên sâu cho Android**
-![app](2.png) ![app](3.png)
+
+![app](2.png)
 > Trải nghiệm YouTube **sạch quảng cáo – phát nền mượt – không bị hỏi “Tiếp tục xem?” – fullscreen cực nét**.
 
 **Phiên bản:** `3.7.3-Ultimate-Engine`  
